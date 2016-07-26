@@ -2,7 +2,7 @@
 
 App for sharing awesome campgrounds
 
-Based on Colt Steel's YelpCamp app with my own tweaks and improvements.
+Based on Colt Steele's YelpCamp app with my own tweaks and improvements.
 
 This app is built using 
 
